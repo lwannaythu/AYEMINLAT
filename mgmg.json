@@ -2,47 +2,71 @@
    "files": [    
 
 {
-         "name": "DTAC-VIP-001",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/DTAC-1.ovpn"
+         "name": "DTAC-FREE-001",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-1.ovpn"
       },
 {
-         "name": "DTAC-VIP-002",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/DTAC-2.ovpn"
+         "name": "DTAC-FREE-002",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-2.ovpn"
       },
 {
-         "name": "DTAC-VIP-003",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/DTAC-3.ovpn"
+         "name": "DTAC-FREE-003",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-3.ovpn"
       },
 {
-         "name": "DTAC-VIP-004",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/DTAC-4.ovpn"
+         "name": "DTAC-FREE-004",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-5.ovpn"
       },
 {
-         "name": "DTAC-VIP-005",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/DTAC-5.ovpn"
-       },
-{
-         "name": "TRUE-VIP-001",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/TRUE-1.ovpn"
+         "name": "DTAC-FREE-005",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-4.ovpn"
       },
 {
-         "name": "TRUE-VIP-002",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/TRUE-2.ovpn"
+         "name": "DTAC-VIP-006",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-VIP-001.ovpn"
       },
 {
-         "name": "TRUE-VIP-003",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/TRUE-3.ovpn"
+         "name": "DTAC-VIP-007",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-VIP-002.ovpn"
       },
 {
-         "name": "TRUE-VIP-004",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/TRUE-4.ovpn"
+         "name": "DTAC-VIP-008",
+         "url": "https://pastebin.com/raw/rrhBHq30"
       },
 {
-         "name": "TRUE-VIP-005",
-         "url": "https://raw.githubusercontent.com/Mcminmin/vips/main/TRUE-5.ovpn"
+         "name": "TRUE-FREE-001",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-1.ovpn"
+      },
+{
+         "name": "TRUE-FREE-002",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-2.ovpn"
+      },
+{
+         "name": "TRUE-FREE-003",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-3.ovpn"
+      },
+{
+         "name": "TRUE-FREE-004",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-5.ovpn"
+      },
+{
+         "name": "TRUE-FREE-005",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-4.ovpn"
+      },
+{
+         "name": "TRUE-VIP-006",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-VIP-001.ovpn"
+      },
+{
+         "name": "TRUE-VIP-007",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-VIP-002.ovpn"
+      },
+{
+         "name": "TRUE-VIP-008",
+         "url": "https://pastebin.com/raw/nAfhfdQw"
       }
 ],
-"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version:1 \n\n•Config By:FreeNetMgMg ",
+"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 1\n\n•Config By:FreeNetMgMg ",
    "title":"Add Dtac&True auto update file" ,
-   "version": 1
+   "version": 9
 }
