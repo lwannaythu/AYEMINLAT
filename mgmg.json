@@ -23,15 +23,23 @@
       },
 {
          "name": "DTAC-VIP-006",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/dtac-vip-006.ovpn"
       },
 {
          "name": "DTAC-VIP-007",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-VIP-002.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/dtac-vip-007.ovpn"
       },
 {
          "name": "DTAC-VIP-008",
-         "url": "https://pastebin.com/raw/Fd7KyumU"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/dtac-vip-008.ovpn"
+      },
+{
+         "name": "DTAC-VIP-009",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/dtac-vip-009.ovpn"
+      },
+{
+         "name": "DTAC-VIP-010",
+         "url": "https://pastebin.com/raw/yzeB7rM8"
       },
 {
          "name": "TRUE-FREE-001",
@@ -55,18 +63,26 @@
       },
 {
          "name": "TRUE-VIP-006",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/true-vip-006.ovpn"
       },
 {
          "name": "TRUE-VIP-007",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-VIP-002.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/true-vip-007.ovpn"
       },
 {
          "name": "TRUE-VIP-008",
-         "url": "https://pastebin.com/raw/nAfhfdQw"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/true-vip-008.ovpn"
+      },
+{
+         "name": "TRUE-VIP-009",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/true-vip-009.ovpn"
+      },
+{
+         "name": "TRUE-VIP-010",
+         "url": "https://pastebin.com/raw/2QW7e7jV"
       }
 ],
-"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 2\n\n•Config By:FreeNetMgMg ",
+"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 4\n\n•Config By:FreeNetMgMg ",
    "title":"Add Dtac&True auto update file" ,
-   "version": 10
+   "version": 12
 }
